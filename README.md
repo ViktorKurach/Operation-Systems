@@ -8,5 +8,5 @@ Instruments:
 Contents:
 * LW1: Planner
 * LW2: Processes interaction
-* LW3: Memory (not done yet)
+* LW3: Memory
 * LW4: File system (not done yet)
